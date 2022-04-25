@@ -25,6 +25,6 @@ Some iOS platform specifics applies.
   s.vendored_frameworks = "**/#{s.name}.xcframework"
 
   s.dependency "MapboxMobileEvents", "~> 1.0.0"
-  s.dependency "MapboxCommon", "21.3.0-rc.2"
+  s.dependency "MapboxCommon", "~> 21.3.0-rc.2"
 
 end
